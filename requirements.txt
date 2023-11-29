@@ -1,0 +1,5 @@
+pandas
+torch
+nltk
+torchtext
+spacy
